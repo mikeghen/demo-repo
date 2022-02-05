@@ -18,3 +18,5 @@ Venmo is a mobile app you can run with the `venmo` command
 for i in range(0,10):
     print(i)
 ```
+
+![Defi Philly](logo.png)
