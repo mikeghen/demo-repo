@@ -20,3 +20,5 @@ for i in range(0,10):
 ```
 
 ![Defi Philly](logo.png)
+
+## Hey it's Joel, your sub TA for today
