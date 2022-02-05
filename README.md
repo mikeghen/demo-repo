@@ -1,2 +1,2 @@
-# Case Study
-This is the start of my case study
+# Venmo Case Study
+This is a case study about Venmo 
