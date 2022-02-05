@@ -1,6 +1,8 @@
 # Venmo Case Study
 This is a case study about Venmo 
 
+by Mike Ghen and Joel J.
+
 ## Overview
 [Venmo](https://venmo.com) is a **payments** company run by Paypal
 
@@ -21,4 +23,3 @@ for i in range(0,10):
 
 ![Defi Philly](logo.png)
 
-## Hey it's Joel, your sub TA for today
